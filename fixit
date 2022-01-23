@@ -1,0 +1,11 @@
+public class FixIt {
+    public static void main(String[] args) {
+        String word1 = "Errors";
+        String word2 = "can";
+        String word3 = "a";
+        String word4 = "syntax";
+        String word5 = "or";
+        String word6 = "logic.";
+        System.out.println(word1+word2+word3+word4+word5+word6);
+    }
+}
